@@ -1,4 +1,9 @@
-# README
+# TODO
+
+rails generate model Article title:string content:text
+
+rails generate controller articles index destroy
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
